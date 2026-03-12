@@ -1,2 +1,2 @@
-# Dynamic-Pricing-Model
-Dynamic-Pricing-ModelDescription🤖 ML-based Dynamic Pricing Model comparing Linear Regression, Decision Tree &amp; Random Forest with business insights
+[Dynamic_pricing_model.ipynb](https://github.com/user-attachments/files/25938788/Dynamic_pricing_model.ipynb)
+
